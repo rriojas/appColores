@@ -32,7 +32,6 @@ namespace appColores
     void CambiaColorFondo(object sender, EventArgs e)
     {
       int R = 0;
-      Math.Sqrt(33);
       if (txtR.Text != "")
       {
         R = int.Parse(txtR.Text);
